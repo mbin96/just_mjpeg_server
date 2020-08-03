@@ -1,8 +1,8 @@
-# just mjpeg server
-## discription
+# Just mjpeg server
+## Description
 Simple mjpeg server by c++. Linux only.   
 Just read jpeg file on memory and send jpeg by socket. Capable with web browser, openCV, VLC player and etc.  
-## how to use
+## How to use
 If you want demo, then type in terminal
 ```
 g++ mJpegServer.cpp demo.cpp -o demo
